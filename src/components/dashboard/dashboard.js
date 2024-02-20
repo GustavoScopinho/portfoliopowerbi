@@ -26,7 +26,7 @@ export function Dashboard () {
                             <h4>
                             STATUS DE EMPRÉSTIMO BANCÁRIO
                             </h4>
-                            <p>
+                            <p className='subtitle'>
                             Objetivos principais e indicadores:
                             </p>
                             <p>
@@ -43,7 +43,7 @@ export function Dashboard () {
                             <h4>
                             ROTAÇÃO DE CLIENTES BANCÁRIOS
                             </h4>
-                            <p>
+                            <p className='subtitle'>
                             Objetivos principais e indicadores:
                             </p>
                             <p>
@@ -60,7 +60,7 @@ export function Dashboard () {
                             <h4>
                             GESTÃO DE PROJETOS
                             </h4>
-                            <p>
+                            <p className='subtitle'>
                             Objetivos principais e indicadores:
                             </p>
                             <p>
@@ -77,7 +77,7 @@ export function Dashboard () {
                             <h4>
                             VISUALIZAÇÃO & ANÁLISE DE DADOS
                             </h4>
-                            <p>
+                            <p className='subtitle'>
                             Objetivos principais e indicadores:
                             </p>
                             <p>
@@ -95,7 +95,7 @@ export function Dashboard () {
                                 <h4>
                                 DESIGN DE DASHBOARDS
                                 </h4>
-                                <p>
+                                <p className='subtitle'>
                                 Objetivos principais e indicadores:
                                 </p>
                                 <p>
@@ -113,7 +113,7 @@ export function Dashboard () {
                             <h4>
                             GESTÃO DE PROJETOS
                             </h4>
-                            <p>
+                            <p className='subtitle'>
                             Objetivos principais e indicadores:
                             </p>
                             <p>
