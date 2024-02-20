@@ -1,0 +1,75 @@
+.ContainerContact {
+    height: 400px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+
+.title {
+    width: 75%;
+    margin-top: 26px;
+}
+
+.BoxInfo {
+    width: 75%;
+}
+.ContainerInfo {
+    width: 560px;
+    height: 100px;
+    background-color: #2E4083;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+
+}
+
+.ContainerTextContact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    p{
+        font-weight: 200px;
+    }
+    span{
+        margin: 5px 5px 0px 0 ;
+
+        img{
+            width: 60px;
+        }
+    }
+    
+}
+
+.ContainerPowerBI {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    height: 300px;
+}
+
+.ContainerImg {
+    width: 400px ;
+    height: 120px;
+    background-color: #CACACD;
+    margin-right: 100px;
+    border-radius: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+}
+
+
+.ImagPowerBi{
+    width: 200px;
+    height: 120px;
+}

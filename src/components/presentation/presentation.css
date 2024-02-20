@@ -1,0 +1,58 @@
+
+.SectionPresentation {
+    background-color: #000;
+    width: 100%;
+    height: 500px;    
+}
+
+.ContainerName {
+    background-color: #131313;
+    color: #fff;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+    h3{
+        font-weight: 300;
+        margin-top: 30px;
+    }
+
+    h1{
+        font-size: 60px;
+        background: -webkit-linear-gradient(90.39deg, #0E2664 -1.17%, #ABC4CB 98.42%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-top: -20px;
+    }
+
+    p{
+        margin-top: -50px;
+        width: 400px;
+    }
+
+    button {
+        margin-top: 50px;
+        background-color: #2E4083;
+        color: #fff;
+        border-radius: 8px;
+        width: 120px;
+        height: 36px;
+        font-weight: 500;
+        border: #000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #2E4083;
+        
+        span{
+            margin-top: 3px;
+            margin-left: 6px;
+        }
+    }
+}
+
+.ImgGu {
+    height: 300px;
+    width: 300px;
+}
