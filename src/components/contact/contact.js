@@ -14,15 +14,21 @@ export function Contact () {
 
                 <div className='BoxInfo'>
                     <div className='ContainerInfo'>
-                        <div className='ContainerTextContact'> 
 
-                            <span>
+                        <div className='ContainerTextContact'> 
+                            
+                        <span>
                             <FaLinkedin size={24}/>
                             </span>
                             <p>
+                            <a href='https://www.linkedin.com/in/gustavo-scopinho/'>
                                 /GustavoScopinho
+                                </a>
                             </p>
+                          
                         </div>
+                       
+                            
                         <div className='ContainerTextContact'> 
 
                         <span>

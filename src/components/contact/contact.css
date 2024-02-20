@@ -44,6 +44,10 @@
             width: 60px;
         }
     }
+    a{
+        color: #fff;
+        text-decoration-line : none;
+    }
     
 }
 
@@ -64,8 +68,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-
-   
 }
 
 

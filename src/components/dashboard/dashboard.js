@@ -32,9 +32,11 @@ export function Dashboard () {
                             <p>
                             Avaliar o status de empréstimo bancário, contendo score e quantidade de dívidas não pagas por quantidades de clientes.
                             </p>
+                            <a href='https://app.powerbi.com/groups/me/reports/17110552-135c-4c67-becd-c56f906eb5f4/ReportSection?experience=power-bi'>
                             <button>
                                 <span> <FaSearch /></span> Ver detalhes 
                             </button>
+                            </a>
                         </div>
                         <div className='BoxDashboard'>
                             <div className='ContainerImagem'>
@@ -49,9 +51,11 @@ export function Dashboard () {
                             <p>
                             Controle de rotação de clientes bancários, contendo classificação de score, média de salário, região e segmentações.
                             </p>
+                            <a href='https://app.powerbi.com/groups/me/reports/a672384e-8c27-4f66-86e5-952f0647093e/ReportSection?experience=power-bi'>
                             <button>
                                 <span> <FaSearch /></span> Ver detalhes 
                             </button>
+                            </a>
                         </div>
                         <div className='BoxDashboard'>
                         <div className='ContainerImagem'>
@@ -66,9 +70,11 @@ export function Dashboard () {
                             <p>
                             Dashboard de vendas com análises de lucro por categoria e sub-categoria, tipos de pagamento, quantia por mês e filtro por estado.
                             </p>
+                            <a href='https://app.powerbi.com/groups/me/reports/abe5770f-64f1-4537-9769-4b2ae0831e39/ReportSection?experience=power-bi'>
                             <button>
                             <span> <FaSearch /></span> Ver detalhes 
                             </button>
+                            </a>
                         </div>
                         <div className='BoxDashboard'>
                         <div className='ContainerImagem'>
@@ -84,9 +90,11 @@ export function Dashboard () {
                             Valores de Receita e Volume geral, sendo distribuidos por categoria, receita por ano e filtro por data e sub-categoria.
 
                             </p>
+                            <a href='https://app.powerbi.com/groups/me/reports/9cdcf448-1a29-45c9-b797-d1e97bcb4e7d/ReportSection?experience=power-bi'>
                             <button>
                             <span> <FaSearch /></span> Ver detalhes 
                             </button>
+                            </a>
                         </div>
                         <div className='BoxDashboard'>
                             <div className='ContainerImagem'>
@@ -101,9 +109,11 @@ export function Dashboard () {
                                 <p>
                                 Indicadores de duração por campanha. Buscando a quantidade de cliente que subscreveu depósito a prazo por cada mês.
                                 </p>
+                                <a href='https://app.powerbi.com/groups/me/reports/3d10f599-93f9-4de0-8297-1d6a96900b1b/ReportSection?experience=power-bi'>
                                 <button>
                                 <span> <FaSearch /></span> Ver detalhes 
                                 </button>
+                                </a>
                             </div>
                         <div className='BoxDashboard'>
                         <div className='ContainerImagem'>
@@ -119,9 +129,11 @@ export function Dashboard () {
                             <p>
                             People Analytics - análise de perfil de colaboradores,formação, porcentagem de gênero, faixa etária, nível de senioridade dos times e filtros para afunilamento.
                             </p>
+                            <a href='https://app.powerbi.com/groups/me/reports/8f718bc3-8376-42cf-9627-354acf12f6b6/ReportSection?experience=power-bi'>
                             <button>
                             <span> <FaSearch /></span> Ver detalhes 
                             </button>
+                            </a>
                         </div>
                         </div>
                     </section>

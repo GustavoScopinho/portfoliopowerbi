@@ -18,7 +18,7 @@
 
 .BoxDashboard{
     width: 260px;
-    height: 405px;
+    height: 410px;
     background-color: #474850;
     margin: 20px;
     border-radius: 8px;
@@ -39,6 +39,10 @@
 
     .subtitle {
         font-weight: 400;
+    }
+
+    a{
+        text-decoration-line: none;
     }
 }
 
